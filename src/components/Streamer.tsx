@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import AnimatedScore from './AnimatedScore';
 import Image from '../components/Image';
 import usePrevious from '../hooks/usePrevious';
-import type { StreamerInfo } from '../types/data';
+import type { StreamerInfo } from '../data';
 
 
 type Props = {

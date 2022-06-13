@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import AnimatedList from './components/AnimatedList';
 import Streamer from './components/Streamer';
 import utils from './data/utils';
-import type { StreamerInfo } from './types/data';
+import type { StreamerInfo } from './data';
 
 
 const Grid = styled.div`

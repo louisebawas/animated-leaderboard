@@ -1,4 +1,4 @@
-import { StreamerInfo } from '../types/data';
+import { StreamerInfo } from '../data';
 import data from './data.json';
 
 
